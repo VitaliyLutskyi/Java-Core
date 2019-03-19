@@ -1,0 +1,6 @@
+package les12.enums;
+
+public enum Seasons {
+	
+	WINTER, SPRING, SUMMER, AUTUMN;
+}
